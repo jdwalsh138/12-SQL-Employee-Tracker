@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/jdwalsh138/12-SQL-Employee-Tracker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/jdwalsh138/12-SQL-Employee-Tracker.git"
   },
   "homepage": "",
   "dependencies": {
